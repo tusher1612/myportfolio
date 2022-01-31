@@ -16,7 +16,7 @@ function PrimaryButton({title}) {
         </PrimaryButtonStyled>
     )
 }
-const PrimaryButtonStyled=styled.a`
+const PrimaryButtonStyled=styled.div`
 .buttonnew{
 background-color: var( --primary-color);
 padding: 1rem 2.5rem;
