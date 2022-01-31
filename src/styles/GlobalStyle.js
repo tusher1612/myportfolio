@@ -162,10 +162,13 @@ h6{
     }
 }
 .nav-toggle{
+    position:fixed;
     transform:translateX(0);
     z-index:20;
     @media screen and (max-width:410px){
-        width:70%;
+        width:16rem;
+        position:fixed;
+
     }
 }
 @media screen and (max-width:1200px){
