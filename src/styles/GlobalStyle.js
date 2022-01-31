@@ -71,6 +71,9 @@ const GlobalStyle = createGlobalStyle `
     @media screen and (max-width:420px){
         font-size:1rem;
     }
+    @media screen and (max-width:450px){
+        font-size:1rem;
+    }
 }
 body{
    background-color:var(--background-dark-color);
