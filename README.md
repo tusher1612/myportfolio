@@ -1,7 +1,3 @@
-Here's a README file for your React.js portfolio website:
-
----
-
 # React.js Portfolio Website
 
 This is a personal portfolio website built using React.js, showcasing my skills, projects, and experience in web development. The website is fully responsive and features interactive elements for an engaging user experience.
@@ -23,7 +19,7 @@ This is a personal portfolio website built using React.js, showcasing my skills,
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tusher1612/myportfolio.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -42,6 +38,4 @@ This is a personal portfolio website built using React.js, showcasing my skills,
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you need any modifications!
